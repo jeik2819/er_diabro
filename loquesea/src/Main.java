@@ -20,7 +20,7 @@ import java.util.Scanner;
         if (er_diabro(numero)) {
             System.out.println("El número " + numero + " es primo"); // en inglés por favor
         } else {
-            System.out.println("El número " + numero + " NO es primo");
+            System.out.println("El número " + numero + " NO es primo"); // Patricia dimisión
         }
 
         scanner.close();
