@@ -22,6 +22,7 @@ import java.util.Scanner;
         } else {
             System.out.println("El número " + numero + " NO es primo"); // Patricia dimisión
         }
+        System.out.print("Patricia danos vacaciones");
 
         scanner.close();
     }
